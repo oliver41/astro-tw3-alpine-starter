@@ -8,13 +8,15 @@ git clone https://github.com/oliver41/astro-tw3-alpine-starter.git
 
 ### Heroicons/React and HeadlessUI/React packages included
 
-## 🚀 Next steps:
+## ⚡️ Next steps:
 
+```
 1: npm install (or pnpm install, yarn, etc)
 
 2: git init && git add -A && git commit -m "Initial commit" (optional step)
 
 3: npm run dev (or pnpm, yarn, etc)
+```
 
 ## 🚀 Project Structure
 

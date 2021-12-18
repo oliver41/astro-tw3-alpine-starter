@@ -1,10 +1,17 @@
-# Astro Starter Kit with TailwindCSS v3 and Alpine (React)
+# Astro Starter Kit with TailwindCSS v3 and Alpine (React/Preact)
 
 ```
 git clone https://github.com/oliver41/astro-tw3-alpine-starter.git
 ```
 
-with the Heroicons/React and HeadlessUI/React packages included
+### React + Preact Renderer installed
+
+### Heroicons/React and HeadlessUI/React packages included
+
+Next steps:
+1: npm install (or pnpm install, yarn, etc)
+2: git init && git add -A && git commit -m "Initial commit" (optional step)
+3: npm run dev (or pnpm, yarn, etc)
 
 ## 🚀 Project Structure
 

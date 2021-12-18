@@ -10,6 +10,8 @@
   },
   "devDependencies": {
     "astro": "^0.21.13",
+    "@astrojs/renderer-preact": "^0.3.2",
+    "@astrojs/renderer-react": "^0.3.1",
     "autoprefixer": "^10.4.0",
     "postcss": "^8.4.5",
     "tailwindcss": "^3.0.2"

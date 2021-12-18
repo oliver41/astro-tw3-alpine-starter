@@ -16,7 +16,7 @@ git clone https://github.com/oliver41/astro-tw3-alpine-starter.git
 
 3: npm run dev (or pnpm, yarn, etc)
 
-## Project Structure
+## 🚀 Project Structure
 
 Inside of your Astro project, you'll see the following folders and files:
 

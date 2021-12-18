@@ -1,14 +1,10 @@
-# Astro Starter Kit: Minimal
+# Astro Starter Kit with TailwindCSS v3 and Alpine (React)
 
 ```
 git clone https://github.com/oliver41/astro-tw3-alpine-starter.git
 ```
 
-## Astro TailwindCSSv3 Alpine Starter (React)
-
-We included the Heroicons/React and HeadlessUI/React packages
-
-git clone https://github.com/oliver41/astro-tw3-alpine-starter.git
+with the Heroicons/React and HeadlessUI/React packages included
 
 ## 🚀 Project Structure
 

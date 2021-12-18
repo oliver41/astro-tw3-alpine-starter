@@ -44,4 +44,4 @@ All commands are run from the root of the project, from a terminal:
 
 ## 👀 Want to learn more?
 
-Feel free to check [documentation](https://github.com/withastro/astro) or jump into [Discord server](https://astro.build/chat).
+Feel free to check the [documentation](https://github.com/withastro/astro) or jump into the [Discord server](https://astro.build/chat).
